@@ -1,5 +1,5 @@
-# app_name: BC_Sandbox_Data_API
-# description: Function that creates DataFrame by connecting to Web Services API in Business Central 220725 Sandbox Environment
+# App Name: BC_Sandbox_Data_API
+# Description: Function that creates DataFrame by connecting to Web Services API in Business Central 220725 Sandbox Environment
 
 BC_Sandbox_Data_API <- function (odata4_url) {
   
